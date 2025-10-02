@@ -45,8 +45,9 @@ Qualificações
 📚 Formação complementar em Desenvolvimento de Software pelo Programa Desenvolve.
 
 Contatos
+
 📧 Email: maicon.henrique147@gmail.com
 
-💼 LinkedIn: Perfil
+💼 LinkedIn: https://www.linkedin.com/in/maicon-henrique-de-oliveira-gomes-734579260/
 
-💻 GitHub: Projetos
+💻 GitHub: https://github.com/MaiccGms8
